@@ -1,5 +1,3 @@
-Future Directions and Challenges
-================================
 
 As artificial intelligence (AI) continues to evolve, so too will its applications in promoting diversity and inclusion in the workplace. In this chapter, we will explore emerging trends and technologies in AI-based diversity and inclusion, opportunities and challenges in scaling up these initiatives, and the implications for the future of creating a culture of equality and respect.
 

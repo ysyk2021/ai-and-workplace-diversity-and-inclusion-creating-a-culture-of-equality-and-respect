@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Diversity and Inclusion
-=======================================================================================================================================
 
 Data collection and analysis are essential components of any diversity and inclusion strategy. In this chapter, we will provide an overview of data collection and analysis for diversity and inclusion.
 

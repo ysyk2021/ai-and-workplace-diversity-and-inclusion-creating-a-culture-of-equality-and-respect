@@ -1,5 +1,3 @@
-Traditional Approaches to Promoting Diversity and Inclusion
-=====================================================================================================================
 
 Traditional approaches to promoting workplace diversity and inclusion have been used for decades. In this chapter, we will explore some of the most common traditional approaches to promoting workplace diversity and inclusion.
 
@@ -32,5 +30,4 @@ Conclusion
 ----------
 
 Traditional approaches to promoting workplace diversity and inclusion have been used for decades and have shown some success in improving diversity and inclusion outcomes. These approaches include affirmative action plans, training programs, employee resource groups, recruitment programs, and accommodation policies. However, these traditional approaches also have limitations and challenges, as discussed in the previous chapter. In the next chapters, we will explore how AI-based approaches can help overcome some of these challenges and improve diversity and inclusion outcomes in the workplace.
-
 

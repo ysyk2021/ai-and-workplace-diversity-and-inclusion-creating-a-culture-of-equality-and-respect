@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Promoting Diversity and Inclusion
-===================================================================================================================================
 
 Artificial intelligence (AI) has the potential to play a significant role in promoting diversity and inclusion in the workplace. However, like any technology, AI has both advantages and limitations when it comes to promoting diversity and inclusion. In this chapter, we will explore these advantages and limitations.
 

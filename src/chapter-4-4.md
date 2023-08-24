@@ -1,5 +1,3 @@
-Performance and Retention Data
-=================================================================================================
 
 Collecting and analyzing performance and retention data related to diversity and inclusion is essential for understanding the impact of diversity and inclusion efforts on organizational outcomes. In this chapter, we will explore some considerations for collecting and analyzing performance and retention data related to diversity and inclusion.
 

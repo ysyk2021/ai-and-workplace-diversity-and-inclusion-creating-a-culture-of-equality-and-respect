@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Diversity and Inclusion
-======================================================================================================================
 
 Implementing AI-based diversity and inclusion strategies requires careful planning and execution. In this chapter, we will provide an overview of the key considerations for implementing AI-based diversity and inclusion strategies.
 

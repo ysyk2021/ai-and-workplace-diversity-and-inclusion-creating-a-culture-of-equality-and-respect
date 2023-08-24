@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-=================================================================================================
 
 Collecting and analyzing regulatory and compliance data related to diversity and inclusion is essential for ensuring that organizations are meeting legal requirements and promoting a culture of equality and respect. In this chapter, we will explore some considerations for collecting and analyzing regulatory and compliance data related to diversity and inclusion.
 

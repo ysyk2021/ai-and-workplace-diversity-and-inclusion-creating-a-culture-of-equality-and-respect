@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and its Applications in Promoting Diversity and Inclusion
-===========================================================================================================
 
 Artificial intelligence (AI) has the potential to play a significant role in promoting diversity and inclusion in the workplace. AI-based tools and algorithms can help companies identify areas where they may be falling short in terms of diversity and inclusion and develop more effective initiatives to promote a more inclusive culture.
 

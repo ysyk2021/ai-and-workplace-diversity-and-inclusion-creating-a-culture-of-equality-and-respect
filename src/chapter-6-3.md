@@ -1,5 +1,3 @@
-Integration with Diversity and Inclusion Processes and Tools
-=========================================================================================================================
 
 Integrating AI-based diversity and inclusion strategies with existing diversity and inclusion processes and tools is essential for success. In this chapter, we will explore some considerations for integrating AI-based diversity and inclusion strategies.
 

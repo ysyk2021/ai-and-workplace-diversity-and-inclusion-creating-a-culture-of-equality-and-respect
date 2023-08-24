@@ -1,5 +1,3 @@
-Hiring and Promotion Data
-============================================================================================
 
 Collecting and analyzing hiring and promotion data is essential for measuring progress towards diversity and inclusion goals. In this chapter, we will focus on the specific data that should be collected and analyzed related to hiring and promotion.
 

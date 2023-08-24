@@ -1,5 +1,3 @@
-Employee Education and Engagement
-==============================================================================================
 
 Employee education and engagement are critical components of implementing AI-based diversity and inclusion strategies. In this chapter, we will explore some considerations for educating and engaging employees in AI-based diversity and inclusion efforts.
 

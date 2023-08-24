@@ -1,5 +1,3 @@
-Overview of AI-Based Diversity and Inclusion Techniques and Strategies
-===========================================================================================================================================
 
 AI-based diversity and inclusion techniques and strategies are becoming increasingly popular as organizations seek to create a more welcoming and inclusive workplace culture. In this chapter, we will provide an overview of the different AI-based techniques and strategies that organizations can use to promote diversity and inclusion.
 

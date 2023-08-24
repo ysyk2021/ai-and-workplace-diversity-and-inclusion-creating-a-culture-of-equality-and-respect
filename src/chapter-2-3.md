@@ -1,5 +1,3 @@
-Limitations and Challenges of Traditional Approaches
-==============================================================================================================
 
 While traditional approaches to workplace diversity and inclusion have made progress, they are not without their limitations and challenges. In this chapter, we will explore some of the major limitations and challenges of traditional approaches to workplace diversity and inclusion.
 

@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Promoting Diversity and Inclusion
-================================================================================================================================
 
 Artificial intelligence (AI) has the potential to play a significant role in promoting diversity and inclusion in the workplace. In this chapter, we will explore several case studies of companies that have successfully implemented AI-based diversity and inclusion initiatives.
 

@@ -1,5 +1,3 @@
-Data Collection and Analysis for Diversity and Inclusion
-========================================================
 
 Data collection and analysis are essential components of any diversity and inclusion initiative. By collecting and analyzing data related to employee demographics, hiring and promotion practices, performance and retention, and regulatory compliance, companies can identify areas where they need to improve and track progress towards their diversity and inclusion goals. In this chapter, we will explore these different types of data collection and analysis.
 

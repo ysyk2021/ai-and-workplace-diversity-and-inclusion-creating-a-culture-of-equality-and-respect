@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-===================================================================================================
 
 Implementing AI-based diversity and inclusion strategies can have significant implications for an organization's business model and cost-effectiveness. In this chapter, we will explore some considerations for implementing AI-based diversity and inclusion strategies in a way that is both effective and cost-efficient.
 

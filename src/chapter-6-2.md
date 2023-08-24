@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-==================================================================================================
 
 As organizations increasingly turn to AI technology to improve diversity and inclusion efforts, it is essential to address potential regulatory and ethical concerns. In this chapter, we will explore some considerations for implementing AI-based diversity and inclusion strategies.
 

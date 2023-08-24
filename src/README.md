@@ -1,4 +1,3 @@
-# Introduction
 
 In recent years, the importance of promoting diversity and inclusion in the workplace has become increasingly recognized. Companies have come to realize that creating a more inclusive workplace culture not only benefits employees but also leads to improved business outcomes.
 

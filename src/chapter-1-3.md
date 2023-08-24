@@ -1,5 +1,3 @@
-Objectives and Structure of the Book
-==================================================
 
 The objective of this book is to explore the use of artificial intelligence (AI) in promoting diversity and inclusion in the workplace. By leveraging the power of AI-based tools and algorithms, companies can identify areas where they may be falling short in terms of diversity and inclusion and develop more effective initiatives to promote a more inclusive culture.
 

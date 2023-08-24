@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and their Applications in Promoting Diversity and Inclusion
-==========================================================================================================================================================
 
 Artificial intelligence (AI) has several types, each with its unique capabilities and applications. Understanding the different types of AI can help companies identify the most effective tools and algorithms to promote diversity and inclusion in the workplace.
 
@@ -51,5 +49,4 @@ Additionally, there may be concerns about the use of AI in making decisions that
 To ensure that AI-based diversity and inclusion initiatives are effective and responsible, it is essential to address these potential limitations and develop ethical guidelines for the use of AI in the workplace.
 
 In conclusion, each type of AI has its unique applications in promoting diversity and inclusion in the workplace. By using rule-based AI, machine learning, and deep learning, companies can develop comprehensive and effective diversity and inclusion initiatives that promote a more inclusive workplace.
-
 

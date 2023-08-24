@@ -1,5 +1,3 @@
-Overview of Workplace Diversity and Inclusion
-=======================================================================================================
 
 Understanding workplace diversity and inclusion is critical for creating a culture of equality and respect. In this chapter, we will provide an overview of workplace diversity and inclusion, including what it means and why it is important.
 
