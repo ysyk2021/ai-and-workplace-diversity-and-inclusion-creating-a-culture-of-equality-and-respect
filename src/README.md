@@ -10,3 +10,7 @@ Furthermore, we will examine emerging trends and technologies in AI-based divers
 By exploring these topics, we aim to provide a comprehensive understanding of the use of AI in promoting diversity and inclusion in the workplace. We hope that this book will serve as a valuable resource for companies, policymakers, and researchers who are interested in leveraging the power of AI to create a more inclusive workplace and drive positive change in society.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

@@ -36,3 +36,4 @@
   - [Implications for the Future of Creating a Culture of Equality and Respect](chapter-7-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
